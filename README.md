@@ -1,4 +1,5 @@
 
+![WhatsApp Image 2024-07-10 at 11 28 58_48cf7c4b](https://github.com/SatyajeetPatra-11/AUDIRE_Document_Analysis/assets/117520211/8b50df96-e77a-4091-b67c-24846077feae)
 
 "AUDIRE : COHORT OF DATA (Document Analysis) " : This is a Streamlit application that allows users to upload PDF files and interact with a conversational AI assistant to ask questions about the content of the uploaded documents. 
 
@@ -35,8 +36,8 @@
 - *Streamlit*
 - *Python*
 - *PyPDF*
-![WhatsApp Image 2024-07-10 at 11 28 58_7abb4b80](https://github.com/SatyajeetPatra-11/AUDIRE_Document_Analysis/assets/117520211/82bb02d1-81ba-4cfc-9911-67a2eae2f025)
 
 ![WhatsApp Image 2024-07-10 at 11 28 58_552b71d9](https://github.com/SatyajeetPatra-11/AUDIRE_Document_Analysis/assets/117520211/5a8f145c-f6ea-4218-9569-161a5e8436e4)
 
-![WhatsApp Image 2024-07-10 at 11 28 58_48cf7c4b](https://github.com/SatyajeetPatra-11/AUDIRE_Document_Analysis/assets/117520211/8b50df96-e77a-4091-b67c-24846077feae)
+![Screenshot 2024-03-05 101307](https://github.com/SatyajeetPatra-11/AUDIRE_Document_Analysis/assets/117520211/1683fc84-cd48-418a-adc5-2aff974c742b)
+
